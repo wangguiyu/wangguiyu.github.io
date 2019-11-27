@@ -1,8 +1,10 @@
 ---
 layout: post
-
 title: GitHub 热门项目
-tags: [github]
+tags:
+  - github
+published: true
+image: img/hello_world.jepg
 ---
 
 1.[https://github.com/chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
