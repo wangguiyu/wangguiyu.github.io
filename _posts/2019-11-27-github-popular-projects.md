@@ -5,6 +5,7 @@ tags:
   - github
 published: true
 image: img/hello_world.jpeg
+bigimg: /img/path.jpg
 ---
 
 1.[https://github.com/chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
