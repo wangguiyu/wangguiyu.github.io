@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: wwwcloudy
+  name: © wwwcloudy
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -69,7 +69,7 @@ author:
 social-network-links:
   rss: true
   email: "guiyu_2008@163.com"
-#  facebook: deanattali
+  #  facebook: deanattali
   github: wangguiyu
 #  twitter: daattali
 #  reddit: yourname
